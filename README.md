@@ -1,5 +1,5 @@
 # A_Technical_Documentation_Page
-This is my other web development project. I built this technical documentation page with front-end web development technologies. This project demonstrates the principles of responsive web design. I wrote a blog post about the project, you can find it on my [medium profile]().
+This is my other web development project. I built this technical documentation page with front-end web development technologies. This project demonstrates the principles of responsive web design. I wrote a blog post about the project, you can find it on my [medium profile](https://medium.com/@marko.libor/javascript-technical-documentation-page-e8a29913073e).
 
 ## What I learned
 * Basic HTML and HTML5
