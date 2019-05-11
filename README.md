@@ -10,7 +10,8 @@ This is my other web development project. I built this technical documentation p
 
 ## Technologies used
 * HTML5
-* CSS3, CSS Flexbox
+* CSS3
+* CSS Flexbox
 
 ## Setup and Run
 1. Download the project files
